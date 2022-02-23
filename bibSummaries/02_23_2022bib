@@ -1,0 +1,17 @@
+@article{mc22,
+   author={Michael A. Cusumano},
+   title={Epic Versus Apple and the Future of App Stores},
+   journal={Communications of the ACM},
+   volume={65},
+   year=2022,
+   pages={22-24}
+}
+
+@book{mc15,
+author = {Michael Scott},
+title = {Programming Language Pragmatics},
+edition = {4},
+publisher = {Morgan Kaufman},
+address = {225 Wyman Street,Waltham, MA 02451, USA},
+year = {2015}
+}
